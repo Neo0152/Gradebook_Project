@@ -1,3 +1,8 @@
+/*
+ * Assignment: Project part 1
+ * Name: Neil Kuehn
+ */
+
 package project.Exceptions;
 
 public class GradebookEmptyException extends Exception {

@@ -1,3 +1,7 @@
+/*
+ * Assignment: Project part 1
+ * Name: Neil Kuehn
+ */
 package project.ObjectClassesAndInterfaces;
 
 import java.time.LocalDate; 

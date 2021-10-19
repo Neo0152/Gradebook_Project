@@ -1,3 +1,9 @@
+/*
+ * Assignment: Project part 1
+ * Name: Neil Kuehn
+ */
+
+
 package project.MainPackage;
 
 import project.ObjectClassesAndInterfaces.*;
@@ -324,7 +330,7 @@ public class Gradebook {
 					AssinmentInterface[] gradeBookTemp = new AssinmentInterface[gradeBookSize];
 					
 					
-					for(int i = 0, c = 0; c<(gradeBookCounter-1);i++, c++) {
+					for(int i = 0, c = 0; i<(gradeBookCounter-1);i++, c++) {
 						if(c == deleteAssinment) {
 							c++;
 						}
