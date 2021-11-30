@@ -1,0 +1,5 @@
+Quiz	testA	90.0	A	2001-01-01	1
+Quiz	testB	80.0	B	2001-01-02	20
+Quiz	testC	70.0	C	2001-01-03	4
+Quiz	testD	60.0	D	2001-01-04	4
+Quiz	testF	50.0	F	2001-01-05	5
